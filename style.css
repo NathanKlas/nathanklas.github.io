@@ -28,7 +28,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     font-family: "Roboto", sans-serif;
     margin: auto;
     width: 100%;
-    background-color: rgb(50, 50, 60);
+    background-color: rgb(29, 42, 59);
     color: rgb(245, 245, 245);
     font-size: 14px;
     min-height: 100%;
@@ -52,7 +52,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
   
   a {
-    color: rgb(252, 153, 242);
+    color: rgb(109, 133, 238);
   }
   
   footer {
@@ -86,11 +86,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
   
   header a:hover {
-    color: rgb(252, 153, 242);
+    color: rgb(109, 133, 238);
   }
   
   header a.active {
-    color: rgb(252, 153, 242);
+    color: rgb(109, 133, 238);
   }
   
   div.dropdown {
